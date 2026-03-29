@@ -1,0 +1,25 @@
+offering_id	departmentCode	course_number	section	year	semester
+1	CSCI	101	A	2024	Fall
+2	CSCI	201	B	2024	Fall
+3	MATH	102	A	2024	Fall
+4	MATH	202	B	2024	Spring
+5	BIOL	103	A	2024	Fall
+6	BIOL	203	C	2024	Spring
+7	PHYS	104	A	2024	Fall
+8	PHYS	204	B	2025	Spring
+9	CHEM	105	A	2024	Fall
+10	CHEM	205	A	2025	Spring
+11	HIST	106	B	2024	Fall
+12	HIST	206	A	2025	Spring
+13	ENGL	107	A	2024	Fall
+14	ENGL	207	B	2024	Spring
+15	ECON	108	A	2024	Fall
+16	ECON	208	A	2025	Spring
+17	PSYC	109	C	2024	Fall
+18	PSYC	209	B	2025	Spring
+19	BUSA	110	A	2024	Fall
+20	NURS	103	D	2024	Fall
+
+
+
+
