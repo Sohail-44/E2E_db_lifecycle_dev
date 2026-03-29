@@ -35,7 +35,7 @@ CREATE TABLE instructor (
 ) ENGINE=InnoDB;
 
 -- departmentCourse associative entity (department M:M course)
--- offering_id is a surrogate key; natural key enforced via UNIQUE
+-- Note : offering_id is a surrogate key; natural key enforced via UNIQUE
 CREATE TABLE departmentCourse (
     offering_id    INT      PRIMARY KEY AUTO_INCREMENT,
     departmentCode CHAR(4),
@@ -58,8 +58,6 @@ CREATE TABLE instructorCourse (
 ) ENGINE=InnoDB;
 
 -- ── LOAD DATA FROM TSV FILES ─────────────────────────────────
--- cd into the folder containing your TSV files before running,
--- or replace filenames with full absolute paths.
 
 LOAD DATA LOCAL INFILE 'college.tsv'
     INTO TABLE college
