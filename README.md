@@ -16,6 +16,8 @@ Have you wondered what lies behind those perfectly aligned tables that you see i
 
 **Implementation -- creating tables and loading data in MariaDB**
 <img width="419" height="499" alt="describe_command" src="https://github.com/user-attachments/assets/0d739b26-b7c4-482c-a973-98e705460dc6" />
+
+**Querying to check**
 <img width="419" height="499" alt="describe_command" src="https://github.com/user-attachments/assets/2a6ebd87-5ea5-4f85-93e9-1b43ebc39e7b" />
 
 **Querying for insights**
