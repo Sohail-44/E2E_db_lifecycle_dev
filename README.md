@@ -3,9 +3,9 @@
 Have you wondered what lies behind those perfectly aligned tables that you see in a database? 
 
 <img width="704" height="483" alt="Requirements" src="https://github.com/user-attachments/assets/523f5ee9-25ad-4e13-9a00-1ce2956d64c0" />
+          
 
-
-
+                                                          
 <img width="2403" height="1803" alt="Course_Offering_ERD" src="https://github.com/user-attachments/assets/f94e08d1-ca40-49d6-9b12-e3489052a4fe" />
 
 
